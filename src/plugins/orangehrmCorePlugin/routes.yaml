@@ -1,0 +1,5 @@
+# Internationalization - Localization Messages
+core_i18n_messages:
+  path: /core/i18n/messages
+  methods: [ GET ]
+  controller: OrangeHRM\Core\Controller\I18NController::getLanguageMessages
